@@ -1,0 +1,10 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "kriswallsmith/buzz": "^1.2",
+        "nyholm/psr7": "^1.4",
+        "rmccue/requests": "^1.8",
+        "nategood/httpful": "^0.3.2",
+        "mashape/unirest-php": "^3.0"
+    }
+}
