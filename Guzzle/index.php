@@ -1,6 +1,6 @@
 <?php
 
-require_once '../vendor/autoload.php';
+require_once __DIR__. '/../vendor/autoload.php';
 
 $URL = 'https://reqres.in/api/users?page=1';
 
