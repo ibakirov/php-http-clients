@@ -4,9 +4,10 @@
 - cURL
 - Guzzle
 - Buzz
-- Requests 
+- Requests
 - Httpful
 - Unirest PHP
+- AMPHP
 
 ## Installation
 
@@ -49,4 +50,12 @@ composer require nategood/httpful
 
 ```
 composer require mashape/unirest-php
+```
+
+### AMPHP
+
+[amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
+
+```
+composer require amphp/http-client
 ```

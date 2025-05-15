@@ -5,6 +5,7 @@
         "nyholm/psr7": "^1.4",
         "rmccue/requests": "^1.8",
         "nategood/httpful": "^0.3.2",
-        "mashape/unirest-php": "^3.0"
+        "mashape/unirest-php": "^3.0",
+        "amphp/http-client": "^5.3"
     }
 }
