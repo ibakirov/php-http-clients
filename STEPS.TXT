@@ -1,5 +1,0 @@
-1- Guzzle: composer require guzzlehttp/guzzle
-2- Buzz: composer require kriswallsmith/buzz and composer require nyholm/psr7
-3- Requests: composer require rmccue/requests
-4- Httpful: composer require nategood/httpful
-5- Unirest PHP: composer require mashape/unirest-php
