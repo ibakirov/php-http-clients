@@ -7,7 +7,8 @@
 - Requests
 - Httpful
 - Unirest PHP
-- AMPHP
+- AMPHP http-client
+- SendGrid php-http-client
 
 ## Installation
 
@@ -58,4 +59,12 @@ composer require mashape/unirest-php
 
 ```
 composer require amphp/http-client
+```
+
+### SendGrid
+
+[sendgrid/php-http-client](https://github.com/sendgrid/php-http-client) - SendGrid's PHP HTTP Client for calling APIs.
+
+```
+composer require sendgrid/php-http-client
 ```
