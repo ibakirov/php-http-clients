@@ -3,11 +3,11 @@
         "guzzlehttp/guzzle": "^7.3",
         "kriswallsmith/buzz": "^1.2",
         "nyholm/psr7": "^1.4",
-        "rmccue/requests": "^1.8",
         "mashape/unirest-php": "^3.0",
         "amphp/http-client": "^5.3",
         "sendgrid/php-http-client": "^4.1",
         "php-curl-class/php-curl-class": "^12.0",
-        "nategood/httpful": "^1.0"
+        "nategood/httpful": "^1.0",
+        "rmccue/requests": "^2.0"
     }
 }
