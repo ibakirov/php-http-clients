@@ -9,6 +9,7 @@
 - Unirest PHP
 - AMPHP http-client
 - SendGrid php-http-client
+- PHP Curl Class
 
 ## Installation
 
@@ -67,4 +68,12 @@ composer require amphp/http-client
 
 ```
 composer require sendgrid/php-http-client
+```
+
+### PHP Curl Class
+
+[php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs.
+
+```
+composer require php-curl-class/php-curl-class
 ```
