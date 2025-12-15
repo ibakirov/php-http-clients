@@ -1904,16 +1904,16 @@
         },
         {
             "name": "php-curl-class/php-curl-class",
-            "version": "12.0.2",
+            "version": "12.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-curl-class/php-curl-class.git",
-                "reference": "064e78f89ab897284c1d098079fd121a0aac7ad7"
+                "reference": "430cdfd91dd6f14483d831df97cff5c776814782"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-curl-class/php-curl-class/zipball/064e78f89ab897284c1d098079fd121a0aac7ad7",
-                "reference": "064e78f89ab897284c1d098079fd121a0aac7ad7",
+                "url": "https://api.github.com/repos/php-curl-class/php-curl-class/zipball/430cdfd91dd6f14483d831df97cff5c776814782",
+                "reference": "430cdfd91dd6f14483d831df97cff5c776814782",
                 "shasum": ""
             },
             "require": {
@@ -1978,9 +1978,9 @@
             ],
             "support": {
                 "issues": "https://github.com/php-curl-class/php-curl-class/issues",
-                "source": "https://github.com/php-curl-class/php-curl-class/tree/12.0.2"
+                "source": "https://github.com/php-curl-class/php-curl-class/tree/12.0.4"
             },
-            "time": "2025-11-18T19:37:10+00:00"
+            "time": "2025-12-11T18:04:38+00:00"
         },
         {
             "name": "php-http/httplug",
